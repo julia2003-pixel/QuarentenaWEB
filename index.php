@@ -5,9 +5,9 @@
         <title>Exercício Quarentena</title>
     </head>
     <body>
-        <?php
-		<p>
-			<a href "exquarentena.php" > exquarentena </a>
-		</p>
+        <h1>Página com links dos meus exercícios</h1>
+        <br />
+			<a href='exquarentena.php' > exquarentena </a>
+        
 	</body>
 </html>

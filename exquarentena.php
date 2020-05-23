@@ -7,7 +7,7 @@
     <body>
         <?php
             if(empty($_POST)){
-                echo'<form action="exequarentena.php" method="POST">
+                echo'<form action="exquarentena.php" method="POST">
                     <input type="text" name="n1" placeholder="Digite um valor..."/> 
                     +
                     <input type="text" name="n2" placeholder="Digite um valor..."/> 
